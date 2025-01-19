@@ -34,24 +34,6 @@ I'm a **4th-year cybersecurity engineering student at ECE Paris**. I'm passionat
 
 ---
 
-### 💻 Technologies & Interests
-
-- **Pentesting**: Reconnaissance, Vulnerability Assessment, Exploitation.  
-- **Cybersecurity Tooling**: Wireshark, Burp Suite, Nmap, Metasploit, etc.  
-- **DevOps Toolchain**: Docker, Kubernetes, GitHub Actions.  
-- **Programming**: C/C++, Python, JavaScript (and always learning more!).
-
-<details>
-<summary> More About Me </summary>
-
-- Always up for new **CTF challenges**—they’re an exciting way to learn and level up.
-- Currently diving deeper into **cloud security** and **container security**.
-- Open to any **internship or research opportunity** to further develop my skills in cybersecurity!
-  
-</details>
-
----
-
 ### 📫 Let's Connect
 
 - **LinkedIn**: [Nathan Deprat](https://www.linkedin.com/in/nathan-deprat/)  
