@@ -55,6 +55,6 @@ I'm a **4th-year cybersecurity engineering student at ECE Paris**. I'm passionat
 ### 📫 Let's Connect
 
 - **LinkedIn**: [Nathan Deprat](https://www.linkedin.com/in/nathan-deprat/)  
-- **Email**: [ton.email@exemple.com](mailto:ton.email@nathandeprat@hotmail.fr)
+- **Email**: [nathandeprat@hotmail.fr](mailto:ton.email@nathandeprat@hotmail.fr)
 
 Feel free to reach out if you’d like to chat about security, collaborate on a project, or discuss potential opportunities!
