@@ -1,4 +1,9 @@
 
+<div align="center">
+  <img src="./img/marvin_hacker.gif" alt="marvin">
+</div>
+
+
 ## 👋 Cybersecurity Engineering Student & CTF Enthusiast
 
 Hi there! I'm **Nathan Deprat**.  
