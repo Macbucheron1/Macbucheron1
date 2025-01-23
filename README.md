@@ -14,12 +14,12 @@ I'm a **4th-year cybersecurity engineering student at ECE Paris**. I'm passionat
 ### 🏆 Achievements & Activities
 
 - **0xECE Cybersecurity Association**  
-  Member of the 0xECE association, where we regularly discuss and train on a variety of cybersecurity topics.  
+  Member of the 0xECE association, where we regularly discuss and train on a variety of cybersecurity topics.  <br>
   [Association's Linkedin](https://www.linkedin.com/company/asso0xece)
 
 - **0xECE CTF Team**  
-  Part of my school's CTF team. We love competing in online and on-site CTFs to sharpen our skills!  
-  [CTFTime of the Team](https://ctftime.org/team/216659)
+  Part of my school's CTF team. We love competing in online and on-site CTFs to sharpen our skills!  <br>
+  [CTFTime of the Team](https://ctftime.org/team/216659) <br>
   [Team's Linkedin](https://www.linkedin.com/company/equipe0xece/)
 
 - **RootMe**  
