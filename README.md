@@ -20,10 +20,10 @@ I'm a **4th-year cybersecurity engineering student at ECE Paris**. I'm passionat
 - **0xECE CTF Team**  
   Part of my school's CTF team. We love competing in online and on-site CTFs to sharpen our skills!  
   [CTFTime of the Team](https://ctftime.org/team/216659)
-  [Team's Linkedin](www.linkedin.com/in/nathan-deprat)
+  [Team's Linkedin](https://www.linkedin.com/company/equipe0xece/)
 
 - **RootMe**  
-  Regularly practicing on  to challenge and improve my technical skills.
+  Regularly practicing on  to challenge and improve my technical skills. <br>
   [My RootMe profile](https://www.root-me.org/Mac-812606)
 
 ---
