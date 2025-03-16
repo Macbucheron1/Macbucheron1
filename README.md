@@ -16,7 +16,6 @@ I'm a **4th-year cybersecurity engineering student at ECE Paris**. I'm passionat
 - **0xECE Cybersecurity Association**  
   Member of the 0xECE association, where we regularly discuss and train on a variety of cybersecurity topics.  <br>
   [Association's Linkedin](https://www.linkedin.com/company/asso0xece)
-https://tryhackme.com/p/Macbucheron
 - **0xECE CTF Team**  
   Part of my school's CTF team. We love competing in online and on-site CTFs to sharpen our skills!  <br>
   [CTFTime of the Team](https://ctftime.org/team/216659) <br>
