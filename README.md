@@ -21,10 +21,11 @@ I'm a **4th-year cybersecurity engineering student at ECE Paris**. I'm passionat
   [CTFTime of the Team](https://ctftime.org/team/216659) <br>
   [Team's Linkedin](https://www.linkedin.com/company/equipe0xece/)
 
-- **RootMe & TryHackMe**  
+- **RootMe & HackTheBox & TryHackMe**  
   Regularly practicing on  to challenge and improve my technical skills. <br>
   [My RootMe profile](https://www.root-me.org/Mac-812606)
-  [My TryHackMeProfile](https://tryhackme.com/p/Macbucheron)
+  [My TryHackMe profile](https://tryhackme.com/p/Macbucheron)
+  [My HTB profile](https://app.hackthebox.com/profile/2106310)
   
 ---
 
