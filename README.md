@@ -26,6 +26,4 @@ I'm a **Final year cybersecurity student at CentraleSupélec** with strong inter
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Nathan Deprat](https://www.linkedin.com/in/nathan-deprat/)  
-- **Email**: [nathandeprat@hotmail.fr](mailto:ton.email@nathandeprat@hotmail.fr)
-
 Feel free to reach out if you’d like to chat about security, collaborate on a project, or discuss potential opportunities!
